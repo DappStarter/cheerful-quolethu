@@ -1,0 +1,8 @@
+{
+    "name": "test-flow-app",
+    "blocks": {
+        "/blockchain/flow": true,
+        "/blockchain/flow/cadence": true,
+        "/framework/react": true
+    }
+}
